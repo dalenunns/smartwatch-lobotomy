@@ -26,7 +26,7 @@ This is a work in progress and just something hacked together to generate OTA Up
 
 It's very hacky.
 
-**WARNING - BE VERY CAREFUL RUNNING THESE COMMANDS WILL BRICK YOUR WATCH !!!**
+**WARNING - BE VERY CAREFUL RUNNING THESE COMMANDS AS THEY WILL BRICK YOUR WATCH !!!**
 
 ### Building
 
@@ -36,4 +36,4 @@ When running it you need to pass it the binary file you want to process, the MAC
 
 For example `java Main 5316_ble_remote.bin FF:FF:FF:10:48:92 0x003a`
 
-**WARNING - BE VERY CAREFUL RUNNING THESE COMMANDS WILL BRICK YOUR WATCH !!!**
+**WARNING - BE VERY CAREFUL RUNNING THESE COMMANDS AS THEY WILL BRICK YOUR WATCH !!!**
