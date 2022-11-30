@@ -1,8 +1,8 @@
 # Smart Watch Lobotomy
 
-This repo contains scripts and other artifacts for my talk [Smart Watch Lobotomy]()
+This repo contains scripts and other artifacts for my talk [Smart Watch Lobotomy](https://www.xor.co.za/talks/smartwatch_lobotomy/)
 
-You can find out a lot more information by reading the accompanying [blog post]() that explains in detail how all this works.
+You can find out a lot more information by reading the accompanying [blog post](https://www.xor.co.za/post/2022-11-30-hacking-smartwatch/) that explains in detail how all this works.
 
 ## `VibrateCommand.java`
 
